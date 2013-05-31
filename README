@@ -1,1 +1,5 @@
-Shubham knows git now! :)
+This repository contains:
+
+- shshukla_robot_navigation/ : Currently (as of May 31st, 2013) deployed firmware for RaaSIO's platform. This code has several hacks/bad coding practices, but it works for now. Krishna is refactoring this to make it more modularized and scalable.
+
+- krishna_robot_navigation_modularized: This is the modularized version of Shubham's firmware mentioned above. It is still a WORK IN PROGRESS. So, ourrobot is still using Shubham's version for now.
